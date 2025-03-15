@@ -42,7 +42,7 @@ Welcome to the **Plant Disease Detection System**, an AI-powered solution that u
 
 #### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/shantaveer21/Plant-Disease-Detection.git
+git clone https://github.com/arafth-007/PlantDiseaseClassification.git
 cd Plant-Disease-Detection
 ```
 
